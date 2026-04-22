@@ -1,0 +1,10 @@
+{
+  "roomCount": 1,
+  "familySize": 3,
+  "simulationRunTime": 99999,
+  "sportEquipmentCount": 2,
+  "kwhPrice": 0.15,
+  "literOfWaterPrice": 0.2,
+  "literOfGasPrice": 1.77,
+  "cycleSecondInterval": 0.05
+}

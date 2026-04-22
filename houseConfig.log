@@ -1,0 +1,28 @@
+Simulation started at: 2024-01-12T15:33:55.479475900
+House created with some configuration.
+New device - garage0_TEMPERATURE_SENSOR was created in garage0
+New temperature sensor - garage0_TEMPERATURE_SENSOR was created.
+New device - garden1_TEMPERATURE_SENSOR was created in garden1
+New temperature sensor - garden1_TEMPERATURE_SENSOR was created.
+Number of rooms: 2
+New device - garage0_TEMPERATURE_SENSOR was created in garage0
+New temperature sensor - garage0_TEMPERATURE_SENSOR was created.
+New device - garage0_HEATING_PANEL was created in garage0
+New device - garage0_HEATING_PANEL was created in garage0
+New device - garage0_DISHWASHER was created in garage0
+New device - garage0_WASHING_MACHINE was created in garage0
+New device - garden1_WASHING_MACHINE was created in garden1
+New device - garden1_LIGHT was created in garden1
+New device - garden1_PET_FEEDER was created in garden1
+New device - garden1_LIGHT was created in garden1
+Number of devices: 20
+Person named Alice was created.
+Person named John was created.
+Person named Sirius was created.
+Person named Muhammad was created.
+Number of pets: 1
+Size of the family: 3
+Number of sport equipment: 5
+Equipment created: 
+{SKIS=0, BIKE=0}
+Frequency at which events are generated: 1.0 sec

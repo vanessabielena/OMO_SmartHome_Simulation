@@ -1,0 +1,13 @@
+{
+  "familySize": 12,
+  "petCount": 5,
+  "roomCount": 30,
+
+  "sportEquipmentCount": 25,
+
+  "simulationRunTime": 10,
+  "kwhPrice": 0.3,
+  "literOfWaterPrice": 0.3,
+  "literOfGasPrice": 2,
+  "cycleSecondInterval": 1.5
+}
