@@ -31,6 +31,10 @@ The system is built using object-oriented principles and incorporates several de
 - **Observer Pattern** – temperature sensors reacting to changes
 - **Flyweight Pattern** – efficient handling of shared device state
 
+### UML Class diagram
+
+<img src="smarthome.png" width="800">
+
 ---
 
 ## Core Components
@@ -101,10 +105,4 @@ Examples include:
 
 ---
 
-## UML Class diagram
 
-
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
