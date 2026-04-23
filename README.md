@@ -6,9 +6,7 @@ This project implements a simulation of a smart home environment in Java. It mod
 
 The simulation is designed to demonstrate object-oriented design principles and the use of common software design patterns in a complex, dynamic system.
 
----
-
-## Authors
+### Authors
 - Adam Štrobl
 - Vanessa Bielená
 
