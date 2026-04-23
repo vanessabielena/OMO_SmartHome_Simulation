@@ -8,6 +8,12 @@ The simulation is designed to demonstrate object-oriented design principles and 
 
 ---
 
+## Authors
+- Adam Štrobl
+- Vanessa Bielená
+
+---
+
 ## Features
 
 - Simulation of a hierarchical house structure (house, floors, rooms)
